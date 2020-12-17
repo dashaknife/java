@@ -61,6 +61,18 @@ public class Look implements Display{
         System.out.println("_______________________________________");
     }
 
+    public String getUpperClothes() {
+        return upperClothes.getTypeOfUpperClothes();
+    }
+
+    public float getPrice() {
+        return price;
+    }
+
+    public boolean isExpensive () {
+        return price > 200 ? true : false;
+    }
+
     public static class Look1{
         private UpperClothes upperClothes;
         private String name;
@@ -83,4 +95,4 @@ public class Look implements Display{
             System.out.println("_______________________________________");
         }
     }
-  }
+}
