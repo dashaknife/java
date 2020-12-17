@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9efc3ecf-bd3b-4ea7-bac4-9af2bda87eaf" name="Default Changelist" comment="" />
+    <list default="true" id="9efc3ecf-bd3b-4ea7-bac4-9af2bda87eaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/джава/clothes/Look$Look1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/джава/clothes/Look$Look1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/джава/clothes/Look.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/джава/clothes/Look.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/джава/clothes/UpperClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/джава/clothes/UpperClothes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/джава/clothes/Wardrobe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/джава/clothes/Wardrobe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clothes/Look.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clothes/Look.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clothes/UpperClothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clothes/UpperClothes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clothes/Wardrobe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clothes/Wardrobe.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +21,7 @@
     <option name="myAddOrReplace" value="1" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="16" />
+    <option name="myElementSize" value="100" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,12 +32,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iI6t0WWQ8BvX72nleko0p3m4J8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -53,51 +72,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WardrobeTest">
-    <configuration name="WardrobeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in джава">
+    <configuration name="All in джава" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="джава" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="джава" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StreamApiTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WardrobeTest.ChangePriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamApiTest.getJumperPriceSum_IsNull_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="джава" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
-      <option name="METHOD_NAME" value="ChangePriceTest" />
+      <option name="MAIN_CLASS_NAME" value="StreamApiTest" />
+      <option name="METHOD_NAME" value="getJumperPriceSum_IsNull_True" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WardrobeTest.EqualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamApiTest.getJumperPriceSum_isEmpty_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="джава" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
-      <option name="METHOD_NAME" value="EqualsTest" />
+      <option name="MAIN_CLASS_NAME" value="StreamApiTest" />
+      <option name="METHOD_NAME" value="getJumperPriceSum_isEmpty_True" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WardrobeTest.InputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamApiTest.getMaxPrice_IsMaxCorrect_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="джава" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
-      <option name="METHOD_NAME" value="InputTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WardrobeTest.InputTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="джава" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
-      <option name="METHOD_NAME" value="InputTest2" />
+      <option name="MAIN_CLASS_NAME" value="StreamApiTest" />
+      <option name="METHOD_NAME" value="getMaxPrice_IsMaxCorrect_True" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WardrobeTest" />
-        <item itemvalue="JUnit.WardrobeTest.InputTest2" />
-        <item itemvalue="JUnit.WardrobeTest.ChangePriceTest" />
-        <item itemvalue="JUnit.WardrobeTest.EqualsTest" />
-        <item itemvalue="JUnit.WardrobeTest.InputTest" />
+        <item itemvalue="JUnit.All in джава" />
+        <item itemvalue="JUnit.StreamApiTest" />
+        <item itemvalue="JUnit.StreamApiTest.getJumperPriceSum_IsNull_True" />
+        <item itemvalue="JUnit.StreamApiTest.getMaxPrice_IsMaxCorrect_True" />
+        <item itemvalue="JUnit.StreamApiTest.getJumperPriceSum_isEmpty_True" />
       </list>
     </recent_temporary>
   </component>
@@ -124,13 +141,70 @@
       <option name="presentableId" value="Default" />
       <updated>1601582969522</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update test">
+      <created>1607616427409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607616427409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update test">
+      <created>1607623238546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607623238546</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update test">
+      <created>1607640612807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607640612807</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update test">
+      <created>1607674064532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607674064532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update test">
+      <created>1607680415179</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607680415179</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest.ic" NAME="WardrobeTest.InputTest Coverage Results" MODIFIED="1605390140285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$StreamApiTest_getMaxPrice_IsMaxCorrect_True.ic" NAME="StreamApiTest.getMaxPrice_IsMaxCorrect_True Coverage Results" MODIFIED="1607675761714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest_EqualsTest.ic" NAME="WardrobeTest.EqualsTest Coverage Results" MODIFIED="1605391471997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$StreamApiTest.ic" NAME="StreamApiTest Coverage Results" MODIFIED="1607675791145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$All_in_.ic" NAME="All in джава Coverage Results" MODIFIED="1608220777140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$StreamApiTest_getJumperPriceSum_IsNull_True.ic" NAME="StreamApiTest.getJumperPriceSum_IsNull_True Coverage Results" MODIFIED="1607675773843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$Main.ic" NAME="Main Coverage Results" MODIFIED="1605385510143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/$WardrobeTest.ic" NAME="WardrobeTest Coverage Results" MODIFIED="1605614212068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$WardrobeTest.ic" NAME="WardrobeTest Coverage Results" MODIFIED="1607640515048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest2.ic" NAME="WardrobeTest.InputTest2 Coverage Results" MODIFIED="1605392222757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

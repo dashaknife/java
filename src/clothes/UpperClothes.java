@@ -21,6 +21,10 @@ public class UpperClothes extends ElementOfClothes implements Display{
         return typeOfUpperClothes == guest.typeOfUpperClothes;
     }
 
+    public String getTypeOfUpperClothes() {
+        return typeOfUpperClothes.getUpper_s();
+    }
+
     @Override
     public void display() {
         System.out.println("Upper Clothes: ");
