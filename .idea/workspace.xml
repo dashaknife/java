@@ -24,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iI6t0WWQ8BvX72nleko0p3m4J8" />
@@ -108,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WardrobeTest" />
         <item itemvalue="JUnit.WardrobeTest.InputTest2" />
-        <item itemvalue="JUnit.WardrobeTest.ChangePriceTest" />
-        <item itemvalue="JUnit.WardrobeTest.EqualsTest" />
         <item itemvalue="JUnit.WardrobeTest.InputTest" />
+        <item itemvalue="JUnit.WardrobeTest.EqualsTest" />
+        <item itemvalue="JUnit.WardrobeTest.ChangePriceTest" />
+        <item itemvalue="JUnit.WardrobeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +132,30 @@
       <option name="presentableId" value="Default" />
       <updated>1601582969522</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab 5 finish">
+      <created>1608671270254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608671270254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 5 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 finish" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest.ic" NAME="WardrobeTest.InputTest Coverage Results" MODIFIED="1605390140285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
