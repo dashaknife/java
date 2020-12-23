@@ -120,7 +120,7 @@ public class StreamApiTest {
         List<String> expected = Arrays.asList("Jumper", "Undershirt");
 
         //WHEN
-        List<String> actual = Wardrobe.getMostFrequentBandageMaterials(wardrobeList);
+        List<String> actual = Wardrobe.getMostPopularTypeOfUpperCloth(wardrobeList);
 
         //THEN
         Assert.assertEquals(actual, expected);

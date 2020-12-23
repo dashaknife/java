@@ -53,7 +53,7 @@ public class Wardrobe implements Display{
                 collect(Collectors.partitioningBy(booleanCondition));
     }
 
-    public static List<String> getMostFrequentBandageMaterials(List<Wardrobe> wardrobeList) {
+    public static List<String> getMostPopularTypeOfUpperCloth(List<Wardrobe> wardrobeList) {
 
         List<String> result = new ArrayList<>();
         wardrobeList.stream()
