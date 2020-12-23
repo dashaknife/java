@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efc3ecf-bd3b-4ea7-bac4-9af2bda87eaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clothes/Wardrobe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/clothes/Wardrobe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/Display.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/DownClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/DownClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/Look$Look1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/Look$Look1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/Look.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/Look.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/Sale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/UpperClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/UpperClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/Wardrobe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/Wardrobe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/elements/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/elements/Brand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/elements/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/elements/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/elements/ElementOfClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/elements/ElementOfClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/elements/Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/elements/Size.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/type/TypeOfDownClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/type/TypeOfDownClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/clothes/type/TypeOfUpperClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/clothes/type/TypeOfUpperClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/WrongInputException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exception/WrongInputException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StreamApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StreamApiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WardrobeIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WardrobeIT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WardrobeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WardrobeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/StreamApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StreamApiTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/WardrobeIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WardrobeIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WardrobeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +17,7 @@
     <option name="myAddOrReplace" value="1" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="20" />
+    <option name="myElementSize" value="17" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -94,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WardrobeIT.getJumperPriceSum_IsSumCorrect_True">
+  <component name="RunManager" selected="JUnit.test in Java">
     <configuration name="WardrobeIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <option name="PACKAGE_NAME" value="" />
@@ -144,9 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.test in Java" />
         <item itemvalue="JUnit.WardrobeIT.getJumperPriceSum_IsSumCorrect_True" />
         <item itemvalue="JUnit.WardrobeIT" />
-        <item itemvalue="JUnit.test in Java" />
         <item itemvalue="JUnit.WardrobeIT.getMostPopularTypeOfUpperCloth_whenRegionIsValid_True" />
         <item itemvalue="JUnit.WardrobeIT.ChangePrice_ChangePriceField_True" />
       </list>
@@ -177,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608672459585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Mockito test">
+      <created>1608732394130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608732394130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +181,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest.ic" NAME="WardrobeTest.InputTest Coverage Results" MODIFIED="1605390140285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/$test_in_Java.ic" NAME="test in Java Coverage Results" MODIFIED="1608706839394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$test_in_Java.ic" NAME="test in Java Coverage Results" MODIFIED="1608732930057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest_EqualsTest.ic" NAME="WardrobeTest.EqualsTest Coverage Results" MODIFIED="1605391471997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$Main.ic" NAME="Main Coverage Results" MODIFIED="1605385510143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest.ic" NAME="WardrobeTest Coverage Results" MODIFIED="1605614212068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

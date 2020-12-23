@@ -13,7 +13,7 @@ public class WardrobeTest {
         Look.Look1 look1 = new Look.Look1("Tuesday", new UpperClothes(Size.S, Color.Wt, Brand.Ch, TypeOfUpperClothes.Dress));
         Look.Look1 look2 = new Look.Look1("Tuesday", new UpperClothes(Size.S, Color.Wt, Brand.Ch, TypeOfUpperClothes.Dress));
         Assert.assertTrue(look1.equals(look2) && look2.equals(look1));
-        look1.display();
+        //look1.display();
     }
 
     @Test
@@ -23,7 +23,7 @@ public class WardrobeTest {
         Look look2 = new Look("Monday", new UpperClothes(Size.S, Color.Bk, Brand.GG, TypeOfUpperClothes.Jumper),
                 new DownClothes(Size.M, Color.Wt, Brand.Ch, TypeOfDownClothes.Jeans), 300);
         Assert.assertTrue(look1.equals(look2) && look2.equals(look1));
-        look1.display();
+        //look1.display();
     }
 
     @Rule
@@ -47,7 +47,7 @@ public class WardrobeTest {
         Sale sale1 = new Sale("Black Friday");
 
         sale1.changePrice(look, 200);
-        sale1.display();
-        look.display();
+        //sale1.display();
+        //look.display();
     }
 }

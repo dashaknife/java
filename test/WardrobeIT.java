@@ -61,6 +61,22 @@ public class WardrobeIT {
     }
 
     @Test
+    public void ChangePrice_ChangePriceField_True(){
+        when(looks1.get(0).getPrice()).thenReturn(200f);
+
+        Sale sale1 = new Sale("Black Friday");
+        Look look = new Look();
+        sale1.changePrice(look, 200);
+
+        Assert.assertEquals(looks1.get(0).getPrice(),look.getPrice(),0);
+    }
+    @Test(expected = WrongInputException.class)
+    public void Input_IncorrectInput_ExceptionThrown()throws WrongInputException{
+        doThrow(new WrongInputException("Not all data entered")).when(looks1.get(0)).input("");
+        looks1.get(0).input("");
+    }
+
+    @Test
     public void getMostPopularTypeOfUpperCloth_IsPopularCorrect_True() {
         //GIVEN
         doReturn(true).when(looks1.get(0)).isExpensive();
@@ -99,20 +115,5 @@ public class WardrobeIT {
         verify(looks2.get(3), times(1)).getUpperClothes();
     }
 
-    @Test(expected = WrongInputException.class)
-    public void Input_IncorrectInput_ExceptionThrown()throws WrongInputException{
-        doThrow(new WrongInputException("Not all data entered")).when(looks1.get(0)).input("");
-        looks1.get(0).input("");
-    }
 
-    @Test
-    public void ChangePrice_ChangePriceField_True(){
-        when(looks1.get(0).getPrice()).thenReturn(200f);
-
-        Sale sale1 = new Sale("Black Friday");
-        Look look = new Look();
-        sale1.changePrice(look, 200);
-
-        Assert.assertEquals(looks1.get(0).getPrice(),look.getPrice(),0);
-    }
 }
