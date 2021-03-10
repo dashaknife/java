@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efc3ecf-bd3b-4ea7-bac4-9af2bda87eaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignoge" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignoge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WardrobeIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WardrobeIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WardrobeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +30,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lab6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iI6t0WWQ8BvX72nleko0p3m4J8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -49,9 +49,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exception" />
+      <recent name="models.services" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="clothes" />
     </key>
@@ -68,22 +75,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test in Java">
+  <component name="RunManager" selected="JUnit.MVCTest.Test1">
+    <configuration name="MVCTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MVCTest" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WardrobeIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="WardrobeIT" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WardrobeIT.ChangePrice_ChangePriceField_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeIT" />
-      <option name="METHOD_NAME" value="ChangePrice_ChangePriceField_True" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MVCTest.Test1" />
         <item itemvalue="JUnit.test in Java" />
         <item itemvalue="JUnit.WardrobeIT.getJumperPriceSum_IsSumCorrect_True" />
         <item itemvalue="JUnit.WardrobeIT" />
         <item itemvalue="JUnit.WardrobeIT.getMostPopularTypeOfUpperCloth_whenRegionIsValid_True" />
-        <item itemvalue="JUnit.WardrobeIT.ChangePrice_ChangePriceField_True" />
       </list>
     </recent_temporary>
   </component>
@@ -180,12 +187,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add Mockito test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest.ic" NAME="WardrobeTest.InputTest Coverage Results" MODIFIED="1605390140285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$test_in_Java.ic" NAME="test in Java Coverage Results" MODIFIED="1608732930057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest.ic" NAME="WardrobeTest.InputTest Coverage Results" MODIFIED="1605390140285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest_EqualsTest.ic" NAME="WardrobeTest.EqualsTest Coverage Results" MODIFIED="1605391471997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$Main.ic" NAME="Main Coverage Results" MODIFIED="1605385510143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeTest.ic" NAME="WardrobeTest Coverage Results" MODIFIED="1605614212068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest2.ic" NAME="WardrobeTest.InputTest2 Coverage Results" MODIFIED="1605392222757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$WardrobeIT.ic" NAME="WardrobeIT Coverage Results" MODIFIED="1608732360695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/$WardrobeTest_InputTest2.ic" NAME="WardrobeTest.InputTest2 Coverage Results" MODIFIED="1605392222757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
