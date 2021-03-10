@@ -11,6 +11,7 @@ public class ConsoleView implements View{
                 .append(elementOfClothes.getColor()).append(" ")
                 .append(elementOfClothes.getBrand()));
     }
+
     public void displayUpperClothes (UpperClothes upperClothes) {
         System.out.println("Upper Clothes: ");
         displayElementOfClothes(upperClothes);
