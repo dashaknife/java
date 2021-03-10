@@ -4,7 +4,6 @@ import models.*;
 
 import java.util.ListIterator;
 
-
 public class ConsoleView implements View{
     public void displayElementOfClothes (ElementOfClothes elementOfClothes) {
         StringBuilder sb = new StringBuilder();
